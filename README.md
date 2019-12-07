@@ -1,4 +1,4 @@
-# tail-trello
+# Trello Like UI build with Vuejs and Taiwind CSS
 
 ## Project setup
 ```
